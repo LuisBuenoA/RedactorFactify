@@ -1,1 +1,1 @@
-# RedactorFactify
+# Redactor de Factify
