@@ -1,1 +1,0 @@
-# Redactor de Factify
